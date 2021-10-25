@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LinqToDsl.Models
+namespace GuruOps.ES.LinqToDsl.Models
 {
     public interface ICreatedModified : IBaseModel
     {

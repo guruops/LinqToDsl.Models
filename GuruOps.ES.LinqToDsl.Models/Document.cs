@@ -1,10 +1,10 @@
-﻿using LinqToDsl.Models.Attributes;
+﻿using GuruOps.ES.LinqToDsl.Models.Attributes;
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
-namespace LinqToDsl.Models
+namespace GuruOps.ES.LinqToDsl.Models
 {
     [Serializable]
     public abstract class Document : IDocument

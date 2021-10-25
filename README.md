@@ -1,2 +1,2 @@
 # Invictus Gurus, LLC
-# LinqToDsl.Models - common models
+# GuruOps.ES.LinqToDsl.Models - common models

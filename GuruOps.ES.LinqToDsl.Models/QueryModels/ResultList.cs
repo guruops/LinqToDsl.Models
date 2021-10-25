@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LinqToDsl.Models.QueryModels
+namespace GuruOps.ES.LinqToDsl.Models.QueryModels
 {
     [Serializable]
     public class ResultList : QueryBase

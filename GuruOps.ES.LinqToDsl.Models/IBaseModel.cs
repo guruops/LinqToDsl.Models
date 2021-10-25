@@ -1,4 +1,4 @@
-﻿namespace LinqToDsl.Models
+﻿namespace GuruOps.ES.LinqToDsl.Models
 {
     public interface IBaseModel
     {

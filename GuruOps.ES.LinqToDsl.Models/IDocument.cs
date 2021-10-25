@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json.Serialization;
 
-namespace LinqToDsl.Models
+namespace GuruOps.ES.LinqToDsl.Models
 {
     public interface IDocument
     {

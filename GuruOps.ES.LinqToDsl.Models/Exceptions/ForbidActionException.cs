@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LinqToDsl.Models.Exceptions
+namespace GuruOps.ES.LinqToDsl.Models.Exceptions
 {
     [Serializable]
     public class ForbidActionException : Exception

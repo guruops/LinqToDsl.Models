@@ -1,8 +1,8 @@
-﻿using LinqToDsl.Models.QueryModels;
+﻿using GuruOps.ES.LinqToDsl.Models.QueryModels;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LinqToDsl.Models
+namespace GuruOps.ES.LinqToDsl.Models
 {
     public static class ResultExtensions
     {

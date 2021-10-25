@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LinqToDsl.Models.Exceptions
+namespace GuruOps.ES.LinqToDsl.Models.Exceptions
 {
     [Serializable]
     public class DocumentConflictException : Exception

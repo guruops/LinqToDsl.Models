@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LinqToDsl.Models.QueryModels
+namespace GuruOps.ES.LinqToDsl.Models.QueryModels
 {
     [Serializable]
     public class QueryBase
