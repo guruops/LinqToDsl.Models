@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -15,8 +15,26 @@
     <Description>LinqToDsl.Models - common models</Description>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageReleaseNotes>0.1.0 - Initial release</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/guruops/LinqToDsl.Models</RepositoryUrl>
+    <PackageTags>InvictusGurus GuruOps LinqToDsl</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <Title>LinqToDsl.Models</Title>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
