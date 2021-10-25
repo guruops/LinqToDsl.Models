@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Invictus Gurus, LLC</Authors>
+    <Product>LinqToDsl.Models</Product>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>0.1.0</Version>
+    <FileVersion>0.1.0.0</FileVersion>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <Company>Invictus Gurus, LLC</Company>
+    <LangVersion>9</LangVersion>
+    <Copyright>Invictus Gurus, LLC</Copyright>
+    <PackageProjectUrl>https://github.com/guruops/LinqToDsl.Models</PackageProjectUrl>
+    <Description>LinqToDsl.Models - common models</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>
