@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuruOps.ES.LinqToDsl.Models", "GuruOps.ES.LinqToDsl.Models\GuruOps.ES.LinqToDsl.Models.csproj", "{955CCABA-9351-4745-930D-055818692E9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuruOps.ES.LinqToDsl.Models", "GuruOps.ES.LinqToDsl.Models\GuruOps.ES.LinqToDsl.Models.csproj", "{0148F441-0DBF-48B2-AC2F-403A770026C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{955CCABA-9351-4745-930D-055818692E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{955CCABA-9351-4745-930D-055818692E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{955CCABA-9351-4745-930D-055818692E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{955CCABA-9351-4745-930D-055818692E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

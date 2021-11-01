@@ -1,6 +1,6 @@
-﻿using GuruOps.ES.LinqToDsl.Models.QueryModels;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
+using GuruOps.ES.LinqToDsl.Models.QueryModels;
 
 namespace GuruOps.ES.LinqToDsl.Models
 {

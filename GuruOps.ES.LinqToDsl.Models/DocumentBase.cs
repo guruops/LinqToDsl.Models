@@ -1,15 +1,15 @@
-﻿using GuruOps.ES.LinqToDsl.Models.Attributes;
-using System;
+﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
+using GuruOps.ES.LinqToDsl.Models.Attributes;
 
 namespace GuruOps.ES.LinqToDsl.Models
 {
     [Serializable]
-    public abstract class Document : IDocument
+    public abstract class DocumentBase : IDocument
     {
-        protected Document(string documentType)
+        protected DocumentBase(string documentType)
         {
             DocumentType = documentType;
             Id = Guid.NewGuid().ToString();
