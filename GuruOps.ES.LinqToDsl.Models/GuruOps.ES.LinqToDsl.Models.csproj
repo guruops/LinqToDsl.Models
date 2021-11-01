@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     <Authors>Invictus Gurus, LLC</Authors>
     <Product>GuruOps.ES.LinqToDsl.Models</Product>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Version>0.1.1</Version>
-    <FileVersion>0.1.1.0</FileVersion>
-    <AssemblyVersion>0.1.1.0</AssemblyVersion>
+    <Version>0.1.2</Version>
+    <FileVersion>0.1.2.0</FileVersion>
+    <AssemblyVersion>0.1.2.0</AssemblyVersion>
     <Company>Invictus Gurus, LLC</Company>
     <LangVersion>9</LangVersion>
     <Copyright>Invictus Gurus, LLC</Copyright>
@@ -19,7 +19,7 @@
     <PackageLicenseExpression></PackageLicenseExpression>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <NeutralLanguage>en</NeutralLanguage>
-    <PackageReleaseNotes>0.1.1 - Initial release + models update</PackageReleaseNotes>
+    <PackageReleaseNotes>0.1.2 - Initial release + models update</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/guruops/LinqToDsl.Models</RepositoryUrl>
     <PackageTags>InvictusGurus GuruOps LinqToDsl</PackageTags>
     <RepositoryType>git</RepositoryType>
